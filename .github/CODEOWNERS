@@ -1,0 +1,4 @@
+# Code owners — iv-assets. Auto-requests review on matching paths.
+# Solo-founder org default: the org owner reviews everything until a second
+# maintainer exists. See governance/ESTATE_TRIAGE.md.
+*       @infinitevariable-org/founder
